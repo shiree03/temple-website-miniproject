@@ -1,3 +1,9 @@
-# temple-website-miniproject
-A digital sanctuary merging tradition and modernity.Explore our rich heritage,stay informed about upcoming events,and seamlessly contribute to the temple's well-being through our user-friendly donation page.
-immerse yourself in the divine rhythm with our pooja registration feature.Easily reverse solts for ypor prefferd ceremonies,connecting with spiritually at your convince.Embrack on a journey where faith meets innovation,and eachclick become a step in your digital pilgrimage.join us in preserving tradition while embracing the ease of the online realm.
+AIM
+The aim of the project is to create a digitial that enchanges the connection between the temple and its devotees.this website serves as an online sanctuary,providing information about the temple,upcoming events.
+TECHNOLOGIES USED:
+Front end:HTML5,CSS3,javascript
+Backend:python django
+Database:Mysql
+IDE used:pycharm
+Team name:shireesha.R & Sahitha.S
+Co ordinated by:Ashwini mam (front end)
